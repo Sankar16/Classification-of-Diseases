@@ -47,12 +47,8 @@ To replicate the analysis and experiment with different models:
    cd Disease_Classification_Project
    ```
 
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. Run the notebook:
+2. Run the notebook:
    ```bash
    jupyter notebook "Classification of Diseases.ipynb"
    ```
